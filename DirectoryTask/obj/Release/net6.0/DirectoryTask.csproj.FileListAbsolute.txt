@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\DirectoryTask.exe
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\DirectoryTask.deps.json
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\DirectoryTask.runtimeconfig.json
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\DirectoryTask.dll
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\DirectoryTask.pdb
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.csproj.CopyComplete
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.dll
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\refint\DirectoryTask.dll
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.pdb
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\DirectoryTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\c# files\DirectoryTask\DirectoryTask\obj\Release\net6.0\ref\DirectoryTask.dll
